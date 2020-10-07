@@ -17,45 +17,34 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
-  title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
+- title: HackBio Virtual Internship
+  title-url: 
+  date: Sep 2020
+  subtitle: Research Intern
   tags:
-    - tag: React
-    - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
+    - tag: Identified 10 unknown epitopes from non-structural proteins of the Coronavirus proteome that were highly antigenic and immunogenic.
+    - tag: Generated structure of reviewed non structural protein sequences from Uniprot using homology modelling protocols
   timeline-side: right
 
-- title: Google
-  title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
+- title: Chiasma 2020
+  title-url: 
+  date: Feb 2020
+  subtitle: Trainer for Life in Bytes Workshop
   tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
-  timeline-side: right
-
-- title: Super University
-  title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
+    - tag: Trained 50+ student in the basic skills of Bioinformatics as a part of 3 day hands on workshop
   timeline-side: left
 
-- title: Facebook
-  title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
-  tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
+- title: Semester Project
+  title-url: 
+  date: Jan - May 2020
+  subtitle: Research project on the characterization of pharmacophores of Withanone and Withaferin A
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2014 - 2017
-  subtitle: B.A. Computer Science
+- title: Reliance Life Sciences
+  title-url: 
+  date: June 2019
+  subtitle: Summer training in Molecular Medicine
+  tags:
+    - tag: Trained in HLA Crossmatch experiments
   timeline-side: left
+
