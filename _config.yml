@@ -7,7 +7,7 @@ title: Rajavee's Blog
 description: Personal blog powered by Jekyll
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
-baseurl: "/neumorphism"
+baseurl: ""
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
@@ -30,11 +30,11 @@ twitter_username: srivastav_rajvi
 # show_aboutme_card:
 # > setting this to true, will display the About Me section
 # > setting this to false, will omit the About Me section
-show_aboutme_card: false
+show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. If you like this theme and want to use it for yourself, checkout the source code and the documentation at <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>. You can also find me on <a class="highlight-link" href="https://jamstackthemes.dev/theme/jekyll-neumorphism/" target="_blank" rel="noreferrer">JAMstack Themes</a> and on <a class="highlight-link" href="https://jekyll-themes.com/neumorphism/" target="_blank" rel="noreferrer">Jekyll Themes</a>.
+about_me_description: I am an extensively curious person who loves to solve logical problems and explore the mysteries of Biology. I fell in love with biology when I realised about the miracle of life and how a couple of cells come together to make such wonderfully complex organisms. Going in depth I realised the potential of this field when it comes to figuring out the mysteries of this world, right down to the first organism that came into existence billions of years ago, it fascinates me to imagine how our world has evolved over the past milleniums and the immense potential we still dont know about. I started my undergraduate studies in Life sciences rather than a specific field of biology and that has helped me get a comprehensive view of the expanse of knowledge we have uncovered about the living systems on earth from micro-organisms to plant and complex organisms. For as long as I can remember, I have been good at computers, I remember dismantling and reassembling my iphone in 7th grade because it had broken down. Solving problems is my passion and when I put my mind to it I can eventually figure out any problem thrown my way. So when I was introduced to Bioinformatics in my sophmore year I took an instant liking to the field and Now I am ready to dedicate my life to figuring out the problems of computational biology.
 
 # SKILLS SECTION
 # show_skills_card:
@@ -81,7 +81,7 @@ show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
 # contact_description: This will be displayed under the title.
-contact_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. If you like this theme and want to use it for yourself, checkout the source code and the documentation at <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>.
+contact_description: You can reach out to me using the links below. I am open to any virtual collaboration projects on Bioinformatics. If not just say Hi, we can have a chat about anything from fantasy novels to baking recipes, I am an interesting person. 
 
 # GITHUB-METADATA
 # Set this to your forked repository
