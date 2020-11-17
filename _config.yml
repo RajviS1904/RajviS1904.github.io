@@ -14,7 +14,7 @@ baseurl: ""
 username: Rajavee Srivastava
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Welcome to my personal blog
+typing_text: Welcome to my personal website
 # email: Your E-Mail address for the email button.
 email: rajaveesrivastava@gmail.com
 # For every social button you want to display, set your username or userid
@@ -34,7 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: I am an extensively curious person who loves to solve logical problems and explore the mysteries of Biology. I fell in love with biology when I realised about the miracle of life and how a couple of cells come together to make such wonderfully complex organisms. Going in depth I realised the potential of this field when it comes to figuring out the mysteries of this world, right down to the first organism that came into existence billions of years ago, it fascinates me to imagine how our world has evolved over the past milleniums and the immense potential we still dont know about. I started my undergraduate studies in Life sciences rather than a specific field of biology and that has helped me get a comprehensive view of the expanse of knowledge we have uncovered about the living systems on earth from micro-organisms to plant and complex organisms. For as long as I can remember, I have been good at computers, I remember dismantling and reassembling my iphone in 7th grade because it had broken down. Solving problems is my passion and when I put my mind to it I can eventually figure out any problem thrown my way. So when I was introduced to Bioinformatics in my sophmore year I took an instant liking to the field and Now I am ready to dedicate my life to figuring out the problems of computational biology.
+about_me_description: I am an extensively curious person who loves to solve logical problems and explore the mysteries of Biology. I fell in love with biology when I realised about the miracle of life and how a couple of cells come together to make such wonderfully complex organisms. Going in depth I realised the potential of this field when it comes to figuring out the mysteries of this world, right down to the first organism that came into existence billions of years ago, it fascinates me to imagine how our world has evolved over the past milleniums and the immense potential we still dont know about. I started my undergraduate studies in Life sciences rather than a specific field of biology and that has helped me get a comprehensive view of the expanse of knowledge we have uncovered about the living systems on earth from micro-organisms to plant and complex organisms. Solving problems is my passion and when I put my mind to it I can eventually figure out any problem thrown my way. So when I was introduced to Bioinformatics in my sophmore year I took an instant liking to the field and Now I am ready to dedicate my life to figuring out the problems of computational biology.
 
 # SKILLS SECTION
 # show_skills_card:
