@@ -81,7 +81,7 @@ show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
 # contact_description: This will be displayed under the title.
-contact_description: You can reach out to me using the links below. I am open to any virtual collaboration projects on Bioinformatics. If not just say Hi, we can have a chat about anything from fantasy novels to baking recipes. 
+contact_description: You can reach out to me using the links below. I am open to any virtual collaboration projects on Bioinformatics. 
 
 # GITHUB-METADATA
 # Set this to your forked repository
