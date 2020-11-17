@@ -6,27 +6,27 @@
 #   weight: 5
 
 - name: Cell Culture
-  weight: 3
+  weight: 2
   
 - name: Cell Assays
-  weight: 2
+  weight: 1
   
 - name: Confocal Microscopy
-  weight: 4
+  weight: 3
   
 - name: Cell imaging and analysis
-  weight: 3
-  
-- name: ELISA
-  weight: 4
-  
-- name: Flow cytometry
   weight: 2
   
+- name: ELISA
+  weight: 3
+  
+- name: Flow cytometry
+  weight: 1
+  
 - name: Enzymatic Assays
-  weight: 5
+  weight: 4
   
 - name: Bacterial conjugation and Transduction experiments
-  weight: 3
+  weight: 2
   
 
