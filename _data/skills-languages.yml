@@ -6,28 +6,28 @@
 #   weight: 5
 
 - name: Molecular Docking
-  weight: 5
-  
-  name: Virtual Screening
-  weight: 3
-  
-  name: Protein-protein interaction
-  weight: 2
-  
-  name: MD Simulations
-  weight: 3
-  
-  name: Phylogenetic Analysis
   weight: 4
   
-  name: Epitope Identification
+- name: Virtual Screening
+  weight: 2
+  
+- name: Protein-protein interaction
+  weight: 1
+  
+- name: MD Simulations
+  weight: 2
+  
+- name: Phylogenetic Analysis
   weight: 3
   
-  name: Homology Modelling
-  weight: 5
+-  name: Epitope Identification
+  weight: 2
   
-  name: Sequence Analysis
-  weight: 5
+- name: Homology Modelling
+  weight: 4
+  
+- name: Sequence Analysis
+  weight: 3
 
 
   
