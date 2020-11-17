@@ -5,29 +5,28 @@
 # - name: Framework
 #   weight: 5
 
-- name: Angular
+- name: Cell Culture
+  weight: 3
+  
+  name: Cell Assays
+  weight: 2
+  
+  name: Confocal Microscopy
+  weight: 4
+  
+  name: Cell imaging and analysis
+  weight: 3
+  
+  name: ELISA
+  weight: 4
+  
+  name: Flow cytometry
+  weight: 2
+  
+  name: Enzymatic Assays
   weight: 5
-
-- name: AngularJS
+  
+  name: Bacterial conjugation and Transduction experiments
   weight: 3
+  
 
-- name: React
-  weight: 4
-
-- name: Node
-  weight: 1
-
-- name: Flutter
-  weight: 2
-
-- name: Express
-  weight: 3
-
-- name: Django
-  weight: 1
-
-- name: Spring
-  weight: 2
-
-- name: Rails
-  weight: 4
