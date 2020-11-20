@@ -3,10 +3,10 @@
 <div id="skills">
   <input type="radio" id="all" name="filter" checked />
   <label class="filter-button neumorphism-button" for="all">All</label>
-  <input type="radio" id="language" name="filter" />
-  <label class="filter-button neumorphism-button" for="framework">Laboratory</label>
-  <input type="radio" id="tool" name="filter" />
-  <label class="filter-button neumorphism-button" for="tool">Bioinformatics</label>
+  <input type="radio" id="Laboratory" name="filter" />
+  <label class="filter-button neumorphism-button" for="Laboratory">Laboratory</label>
+  <input type="radio" id="Bioinformatics" name="filter" />
+  <label class="filter-button neumorphism-button" for="Bioinformatics">Bioinformatics</label>
 
   {% for framework in site.data.skills-frameworks %}
     <div skill-type="Laboratory" skill-weight="{{framework.weight}}" data-aos="zoom-in">
