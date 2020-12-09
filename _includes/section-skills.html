@@ -8,12 +8,12 @@
   <input type="radio" id="Bioinformatics" name="filter" />
   <label class="filter-button neumorphism-button" for="Bioinformatics">Bioinformatics</label>
 
-  {% for framework in site.data.skills-laboratory %}
+  {% for laboratory in site.data.skills-laboratory %}
     <div skill-type="Laboratory" skill-weight="{{framework.weight}}" data-aos="zoom-in">
       {{laboratory.name}}
     </div>
   {% endfor %}
-  {% for tool in site.data.skills-bioinformatics %}
+  {% for bioinformatics in site.data.skills-bioinformatics %}
     <div skill-type="Bioinformatics" skill-weight="{{tools.weight}}" data-aos="zoom-in">
       {{bioinformatics.name}}
     </div>
