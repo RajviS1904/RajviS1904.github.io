@@ -9,12 +9,12 @@
   <label class="filter-button neumorphism-button" for="Bioinformatics">Bioinformatics</label>
 
   {% for laboratory in site.data.skills-laboratory %}
-    <div skill-type="Laboratory" skill-weight="{{framework.weight}}" data-aos="zoom-in">
+    <div skill-type="laboratory" skill-weight="{{laboratory.weight}}" data-aos="zoom-in">
       {{laboratory.name}}
     </div>
   {% endfor %}
   {% for bioinformatics in site.data.skills-bioinformatics %}
-    <div skill-type="Bioinformatics" skill-weight="{{tools.weight}}" data-aos="zoom-in">
+    <div skill-type="bioinformatics" skill-weight="{{bioinformatics.weight}}" data-aos="zoom-in">
       {{bioinformatics.name}}
     </div>
   {% endfor %}
